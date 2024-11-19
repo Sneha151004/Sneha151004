@@ -1,4 +1,4 @@
-# Pratyush Kumar
+# Sneha Rastogi
 
 Hi there! 👋 I'm Sneha Rastogi, a passionate Web Developer focused on building scalable web applications.
 
